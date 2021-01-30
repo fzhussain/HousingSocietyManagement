@@ -1,0 +1,10 @@
+.padding{
+    padding: 5rem;
+}
+.form-control:focus{
+    box-shadow: 10px 0px 0px #fff ;
+    border-color: #4ca746;
+
+}
+
+
